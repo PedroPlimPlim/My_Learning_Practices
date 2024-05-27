@@ -12,6 +12,7 @@ I started uploading all my practice lessons in different repositorys but soon I 
 - A password generator program
 - A digital clock program
 - A stopwatch program
+- A calculator program
 
 ##
 
