@@ -9,7 +9,8 @@ I started uploading all my practice lessons in different repositorys but soon I 
 - A number guessing game
 - A temperature conversition program
 - A dice roller program
-- A password generator
+- A password generator program
+- A digital clock program
 
 ##
 
